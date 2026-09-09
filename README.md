@@ -123,7 +123,7 @@ The algorithm:
 
 You can add your own rows while keeping the same column names.
 
-## 10. Important Note
+# 10. Important Note
 The coordinates and food records included in this repository are sample educational data. The route distance is an approximate straight-line geographic distance and is not a replacement for a live road-navigation service.
 
 ## 11. Author
