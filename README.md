@@ -23,6 +23,7 @@ The system considers:
 - Python 3.9 or later
 - CSV files for sample data
 - Python standard library
+- Artificial Intelligence
 - Haversine formula for approximate geographic distance
 
 No external Python package is required.
